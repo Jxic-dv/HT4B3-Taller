@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "nombre": "Leanne Graham",
+    "correo": "Sincere@april.biz"
+  },
+  {
+    "id": 2,
+    "nombre": "Ervin Howell",
+    "correo": "Shanna@melissa.tv"
+  },
+  {
+    "id": 3,
+    "nombre": "Clementine Bauch",
+    "correo": "Nathan@yesenia.net"
+  },
+  {
+    "id": 4,
+    "nombre": "Patricia Lebsack",
+    "correo": "Julianne.OConner@kory.org"
+  },
+  {
+    "id": 5,
+    "nombre": "Chelsey Dietrich",
+    "correo": "Lucio_Hettinger@annie.ca"
+  },
+  {
+    "id": 6,
+    "nombre": "Mrs. Dennis Schulist",
+    "correo": "Karley_Dach@jasper.info"
+  },
+  {
+    "id": 7,
+    "nombre": "Kurtis Weissnat",
+    "correo": "Telly.Hoeger@billy.biz"
+  },
+  {
+    "id": 8,
+    "nombre": "Nicholas Runolfsdottir V",
+    "correo": "Sherwood@rosamond.me"
+  },
+  {
+    "id": 9,
+    "nombre": "Glenna Reichert",
+    "correo": "Chaim_McDermott@dana.io"
+  },
+  {
+    "id": 10,
+    "nombre": "Clementina DuBuque",
+    "correo": "Rey.Padberg@karina.biz"
+  }
+]
